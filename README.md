@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Daniil<br><br>Junior Fullstack Developer
+Hi, I'm Daniil!<br><br>Junior Fullstack Developer.
 
 
 ## 🌐 Socials:
