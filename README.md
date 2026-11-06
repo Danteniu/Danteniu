@@ -16,7 +16,7 @@ Tech stack
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,nodejs,flask&theme=dark" alt="Python, Node.js, Flask"></td>
+    <td><img src="https://skillicons.dev/icons?i=python,cpp,nodejs,flask&theme=dark" alt="Python, C++, Node.js, Flask"></td>
   </tr>
   <tr>
     <td><b>Database & tools</b></td>
