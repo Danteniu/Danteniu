@@ -7,7 +7,7 @@ Information Systems and Technologies student at MIREA.
 <a href="https://github.com/Danteniu?tab=repositories"><img src="https://img.shields.io/badge/Repositories-21262D?style=flat-square&logo=github&logoColor=white" alt="Repositories"></a>
 </div>
 About
-I build web applications and educational programming projects. My main focus is Python, C++ and JavaScript; lately, I've also been exploring backend architecture and application security.
+I build web applications and programming projects. My main focus is Python, C++ and JavaScript; lately, I've also been exploring backend architecture and application security.
 Tech stack
 <table>
   <tr>
